@@ -1,0 +1,12 @@
+{
+  "name": "slivinskas/application_form",
+  "description": "wishes application form",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vytenis Šlivinskas",
+      "email": "slivinskasvytenis@gmail.com"
+    }
+  ]
+}
